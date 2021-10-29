@@ -1,5 +1,5 @@
 {
-  "planned_route": {
+  "planned_route": [{
     "id": "0cd60461-52e8-470d-adba-909f52a99f47",
     "route_min_time": "2017-11-13T07:30:00.000000Z",
     "route_max_time": "2017-11-13T13:30:00.000000Z",
@@ -101,5 +101,5 @@
       "id": "1fc62bce-5198-4a1d-9f73-b78cb7ddbd8e",
       "carrying_capacity": 180
     }
-  }
+  }]
 }
